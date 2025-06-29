@@ -1,1 +1,1 @@
-# Smart-soring-Identifying-Rotten-Fruits-and-Vegetables
+# Smart-sorting-Identifying-Rotten-Fruits-and-Vegetables
